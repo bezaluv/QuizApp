@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="basic_general_knowledge">Basic General Knowledge</string>
+    <string name="question1">(1)Grand Central Terminal, park Avenue, New York is the world\'s</string>
+    <string name="largest_railWay_station">Largest Railway Station</string>
+    <string name="highest_railWay_station">Highest Railway Station</string>
+    <string name="longest_railWay_station">Longest Railway Station</string>
+    <string name="question2">(2)Where Are The Egyptian Pyramids Built?</string>
+    <string name="place_hint">place</string>
+    <string name="question3">(3)Michael Faraday Discovered</string>
+    <string name="electromagnetism">Electromagnetism</string>
+    <string name="benzene_liquidGases_opticalGlass">Benzene, Liquid Gases And Optical Glass</string>
+    <string name="the_induction_of_electric_current">The Induction Of Electric Current</string>
+    <string name="question4">(4)Eritrea Which Became The 182nd Member Of The UN Is In The Continent Of</string>
+    <string name="asia">Asia</string>
+    <string name="africa">Africa</string>
+    <string name="question5">(5)Joule Is The Unit Of </string>
+    <string name="heat">Heat</string>
+    <string name="energy">Energy</string>
+    <string name="question6">(6)Drinking Alcohol Kills Brain Cells</string>
+    <string name="drinking_alcohol_kills">Drinking Alcohol Kills</string>
+    <string name="drinking_alcohol_does_not_kill">Drinking Alcohol Does Not kill </string>
+    <string name="question7">(7)For Which Of The Following Disciplines Is Nobel Prize Awarded?</string>
+    <string name="physics_chemistry">Physics And Chemistry</string>
+    <string name="physiology_medicine">Physiology Or medicine</string>
+    <string name="literature_peace_economics">Literature, Peace And Economics</string>
+    <string name="all_of_the_above">All Of The Above</string>
+    <string name="question8">(8)Hitler Party Which Became Into Power In 1933 Is Known As</string>
+    <string name="partyName_hint">PartyName</string>
+    <string name="question9">(9)HTML Stands For</string>
+    <string name="shortFor_hint">Short For</string>
+    <string name="question10">(10)Filaria Is Caused By </string>
+    <string name="bacteria">Bacteria</string>
+    <string name="mosquito">Mosquito</string>
+    <string name="virus">Virus</string>
+    <string name="score_button">submit Quiz</string>
+    <string name="reset_button">Reset</string>
+
+</resources>

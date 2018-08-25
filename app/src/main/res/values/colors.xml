@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_pressed">#1b5e20</color>
+    <color name="button_focused">#1b5e20</color>
+    <color name="button_default">#1b5e20</color>
+    <color name="red">#ff8a80</color>
+    <color name="indigo">#1a237e</color>
+    <color name="black">#000000</color>
+</resources>
